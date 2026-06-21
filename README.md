@@ -1,8 +1,8 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# Tiny Tapeout Verilog Project Template
-
-- [Read the documentation for project](docs/info.md)
+# gates!
+I got the 7-segment VGA display from James Ross’ and added some basic logic gates visual tutorials!
+https://tinytapeout.com/chips/ttsky25a/tt_um_nvious_graphics
 
 ## What is Tiny Tapeout?
 
