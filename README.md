@@ -4,6 +4,9 @@
 I got the 7-segment VGA display from James Ross’ and added some basic logic gates visual tutorials!
 https://tinytapeout.com/chips/ttsky25a/tt_um_nvious_graphics
 
+Here is the link to the VGA Playground to that you can run in your browser: 
+https://fpga.vga-playground.pages.dev/?repo=https%3A%2F%2Fgithub.com%2Falexandercoabad%2Fgates
+
 ## What is Tiny Tapeout?
 
 Tiny Tapeout is an educational project that aims to make it easier and cheaper than ever to get your digital and analog designs manufactured on a real chip.
